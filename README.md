@@ -1,36 +1,8 @@
 # Digital-literacy
-For this task, I created a digital literacy awareness infographic using Canva. It offers easy-to-use templates and design elements that are perfect for beginners. My infographic explains what digital literacy is and why it matters for students in today’s digital world. It addresses key topics like safe internet practices, helpful digital tools for students, and how to maintain a professional online presence.
+Name-Himanshu Poonia
+Reg no-25BCE11340
+Branch-Computer Science
 
-In the design, I included sections that highlight tips such as using strong passwords, recognizing phishing links, and using tools like Google Docs and online learning platforms to boost productivity. I also added a section on email etiquette; it explains how to write formal emails and communicate professionally online. The infographic features simple icons, minimal text, and clear headings to make the information easy to grasp at a glance.
 
-One interesting thing I discovered was how design choices like color combinations and layout can influence how effectively information is shared. The biggest challenge was choosing the right amount of content, making sure the infographic was informative but not cluttered. Overall, this task improved my understanding of both digital literacy and visual communication.
-
-I. Updated my profiles on GitHub, LinkedIn and Kaggle to build my digital presence. Each of these platforms is used for something and together they help me show my skills and growth as a student.
-
-GitHub is where I put my coding projects and track how I am doing as I learn to code. I will put my projects on GitHub regularly make my coding better and make a portfolio over time. LinkedIn is where I have my identity online. I have put my education details on LinkedIn. I will use it to talk to my peers, seniors and professionals and also look for internship opportunities. Kaggle is about data science and solving problems and I want to use it to practice with datasets take part in competitions and make my analytical skills better.
-
-Over the four years I plan to keep using GitHub, LinkedIn and Kaggle by learning new things sharing my work and making good connections. This will not make me smarter but also help me get ready, for jobs I might want in the future. I will use GitHub to show my coding skills LinkedIn to meet people and Kaggle to practice data science. I think using GitHub, LinkedIn and Kaggle will really help me become a student and get a good job.
-For this task I used HackerRank to practice coding and Google Forms, which is part of Google Workspace for working with others.
-
-On HackerRank I made an account. Did a problem for beginners.
-This problem helped me get the basics of solving problems and understand how coding websites work.
-It made me feel confident to practice coding every day and get better at thinking
-For working with others I made a Google Form called "Digital Literacy Awareness Quiz" with five questions.
-These questions included choosing from options and writing answers.
-I also connected the answers to a Google Sheet.
-This made it easy for me to see and understand the responses.
-It helped me learn how to collect and share data in a way.
-These tools will be very helpful for my studies.
-Sites like HackerRank will help me get better at coding and prepare for jobs.
-Google Forms and Sheets will help me do surveys work, with groups and organize information well.
-Overall this task helped me feel more comfortable using digital tools that I will keep using.
-link-https://docs.google.com/forms/d/e/1FAIpQLSd9PuAfO6qKrEsQrnQHnSVOM6TPnJrDO95g-ZpV3e2cxumUnA/viewform?usp=header
-
-Digital communication is not always good. This can cause problems. For example a student sends an email to a professor. The email does not have a subject line or a nice greeting. The student uses language that's not formal like "Hey". The student also does not explain what they want clearly. The professor might not understand the message. They might just ignore it. They might think the email is not professional or not important. This can cause the student to miss out on something like getting more time to finish an assignment.
-
-This situation could have been better if the student followed some rules for emailing. The student should have used a line that makes sense a greeting that is polite and a message that is easy to understand. They should have explained what they needed in a way. It is very important to be respectful and sound professional when you are emailing someone, in school or at work. When you communicate in a way using digital tools people understand what you mean and they think good things, about you. Digital communication is important because it helps people understand each other. The student should have been more careful when they wrote the email to the professor.
-
-While researching phishing and online fraud, I was surprised by how simple and convincing these scams can be. Attackers do not always rely on complex technology; instead, they use human emotions like fear and urgency. A single careless click or sharing an OTP can lead to serious financial loss in just minutes. I also noticed how common these incidents are among students who frequently use UPI apps and online services.
-
-As a result, one habit I will change is being more careful before clicking on any link or responding to urgent messages. I will always check the source and avoid taking immediate action without thinking. This small change can greatly reduce my risk of falling victim to cybercrime and help me stay safer online.
+This repository contains my Digital Literacy Project for the CSE0001 course at VIT Bhopal. As a Student Digital Ambassador, I completed five tasks to understand digital literacy, online safety, professional communication, and the use of digital platforms. The project includes creating an infographic on digital literacy, building a digital portfolio using platforms like GitHub and LinkedIn, completing a coding challenge and a Google Form, drafting professional emails with an etiquette checklist, and preparing a cybercrime case study with prevention tips. Through this project, I learned the importance of maintaining a professional online presence, using digital tools effectively, and staying safe from online threats.
 
